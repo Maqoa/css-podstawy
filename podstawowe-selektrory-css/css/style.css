@@ -1,4 +1,15 @@
-body {
-    background-color:red;
-    
+p{
+    color: orange;
+#paragraf {
+        color: fuchsia
+    }
+a, span, div {
+         background-color: lime
+    }
+ul a {
+        background-color: blue
+    }
+    li > a {
+        background-color: aquamarine
+    }
 }
