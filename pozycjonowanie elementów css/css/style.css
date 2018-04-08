@@ -12,6 +12,18 @@ body {
     top: 30px;
     left: 10px;
 }
+#pierwszy-prim{
+    background-color: yellow;
+margin: 5px;
+}
+
+#pierwszy-absolutny{
+    background-color: violet;
+margin:  5px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
 
 #drugi {
     background-color: red;
