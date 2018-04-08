@@ -4,3 +4,11 @@ html{
 body{
     background-color: aqua;
 }
+#cointainer{
+    font-size: 30px;
+}
+
+#container > div{
+    background-color: lightcoral;
+        margin-bottom: 10px;
+}
