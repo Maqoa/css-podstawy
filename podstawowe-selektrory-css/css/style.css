@@ -9,7 +9,11 @@ a, span, div {
 ul a {
         background-color: blue
     }
+
     li > a {
         background-color: aquamarine
+    }
+    h1 + p {
+        color: red
     }
 }
