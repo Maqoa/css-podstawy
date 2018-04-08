@@ -1,18 +1,26 @@
 body {
     background-color: pink;
 }
+
 #pierwszy {
-        background-color: green;
-        width:600px;
-        height: 100px;
-        margin-bottom: 10px;
+    background-color: green;
+    width: 600px;
+    height: 100px;
+    margin-bottom: 10px;
+    
     position: relative;
     top: 30px;
     left: 10px;
-    }
+}
+
 #drugi {
-        background-color: red;
-        width:600px;
-        height: 100px;
-    }
+    background-color: red;
+    width: 600px;
+    height: 100px;
+}
+#trzeci {
+    background-color: lime;
+        width: 100px;
+    height: 100px;
+}
 }
