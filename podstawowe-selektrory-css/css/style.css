@@ -1,24 +1,10 @@
-p{
-    color: orange;
- #paragraf {
-        color: fuchsia
-    }
-a, span, div {
-         background-color: lime
-    }
-ul a {
-        background-color: blue
-    }
-
-    li > a {
-        background-color: aquamarine
-    }
-    h1 + p {
-        color: red
-    }
-    ul#list > li:not(.last) {
-        background-color: bisque}
-    ul#lista > li:nth-child(3) {
-        background-color: red
-    }
+body{
+    background-color: #213b50;
+}
+[text]{
+    background-color: #2b4a64;
+        }
+div:active{
+background-color: #4e708c;
+color: #ffffff;
 }
